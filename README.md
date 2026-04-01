@@ -19,5 +19,5 @@ https://training.linuxfoundation.org/training/introduccion-a-linux-lf-upv-101x/
 https://openwebinars.net/cursos/aprender-linux-desde-cero/
 
 
-
+Notebook estruturado
 https://notebooklm.google.com/notebook/1c301295-f8ee-4988-b27d-53237ed81fbf
